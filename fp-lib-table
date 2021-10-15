@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name raspberrypipico)(type KiCad)(uri ${KIPRJMOD}/Schematic/raspberrypipico.pretty)(options "")(descr ""))
+)
